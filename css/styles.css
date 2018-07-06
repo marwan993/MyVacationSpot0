@@ -1,0 +1,107 @@
+body {
+    font-family: 'assistant','sans-serif';
+    margin: 0;
+    background-color: aliceblue;
+}
+
+header {
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+}
+
+.container {
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color:whitesmoke;
+    font-size: 150;
+    font-family: 'Courier New';
+    padding-right: 50px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+
+
+.bg-info {
+    background-color: #17a2b8;
+    width: 100%;
+}
+
+.section {
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.overVid {
+    width: 100%;
+}
+.videoBr {
+    width: 100%;
+}
+
+.section h1 {
+    font-size: 25pt;
+    font-family: cursive;
+    border-bottom: 1px dotted black;
+    width: 50%;
+    margin: 0 auto;
+    font-weight: 200;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   /* letter-spacing: 15px; */
+}
+
+/* blockquote {
+
+    /* margin-left: 130px; 
+    text-align: center;
+    padding: 0px;
+    padding-bottom: 5px; */
+/* } */
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    height: 150px;
+    text-align: center;
+    background: #17a2b8;
+}
+
+
+.imgGif {
+    width: 100%;
+    height: 600px;
+}
+.diningBr {
+    width: 100%;
+}
+.diningVid {
+    width: 100%;
+}
+
+
+footer h3 {
+    text-align: center;
+    padding: 15px;
+    color: whitesmoke;
+    font-weight: 400;
+    font-family: 'Courier New';
+}
+
+.social {
+    text-align: center;
+    padding: 5px;
+}
+.social:hover {
+    cursor: pointer;
+}
+.fab {
+    color:whitesmoke;
+}
